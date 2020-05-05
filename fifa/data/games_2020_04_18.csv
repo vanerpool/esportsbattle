@@ -1,0 +1,439 @@
+game_id,date,time,league,team,player,place,full_time,first_ht,second_ht,result_full_time,result_first_ht,result_second_ht
+7684274b-14c9-4e9d-a336-fbcfefff3f13,2020-04-18,16:56,Champions League,Барселона,Mr.Jab,HOME,2,1,1,D,W,L
+7684274b-14c9-4e9d-a336-fbcfefff3f13,2020-04-18,16:56,Champions League,Реал Мадрид,Bombi1t0,AWAY,2,0,2,D,L,W
+60b3173b-472b-48cb-a1a9-7a9a996d4079,2020-04-18,16:56,Champions League,Манчестер Сити,Skromnuy,HOME,4,2,2,W,W,W
+60b3173b-472b-48cb-a1a9-7a9a996d4079,2020-04-18,16:56,Champions League,ПСЖ,JKey,AWAY,0,0,0,L,L,L
+0ce2b930-6c13-4912-8896-0a3d3d536314,2020-04-18,17:08,Champions League,ПСЖ,JKey,HOME,2,1,1,L,W,L
+0ce2b930-6c13-4912-8896-0a3d3d536314,2020-04-18,17:08,Champions League,Ливерпуль,Arcos,AWAY,3,0,3,W,L,W
+92bda697-1da9-497e-975f-04e6ab78349f,2020-04-18,17:08,Champions League,Реал Мадрид,Bombi1t0,HOME,0,0,0,D,D,D
+92bda697-1da9-497e-975f-04e6ab78349f,2020-04-18,17:08,Champions League,Манчестер Сити,Skromnuy,AWAY,0,0,0,D,D,D
+c3b6f5ce-4c2d-498f-8a64-f65c5ace7432,2020-04-18,17:20,Champions League,Ливерпуль,Arcos,HOME,1,0,1,W,D,W
+c3b6f5ce-4c2d-498f-8a64-f65c5ace7432,2020-04-18,17:20,Champions League,Реал Мадрид,Bombi1t0,AWAY,0,0,0,L,D,L
+c44680c8-cb07-43bb-aa42-5cfd15e3eed7,2020-04-18,17:20,Champions League,Манчестер Сити,Skromnuy,HOME,1,1,0,L,D,L
+c44680c8-cb07-43bb-aa42-5cfd15e3eed7,2020-04-18,17:20,Champions League,Барселона,Mr.Jab,AWAY,2,1,1,W,D,W
+1396cec0-b934-4032-9795-5ee1aa16aa6d,2020-04-18,17:32,Champions League,Барселона,Mr.Jab,HOME,0,0,0,L,D,L
+1396cec0-b934-4032-9795-5ee1aa16aa6d,2020-04-18,17:32,Champions League,Ливерпуль,Arcos,AWAY,1,0,1,W,D,W
+1e964f64-e63e-40a3-883c-92085d6a0d80,2020-04-18,17:32,Champions League,Реал Мадрид,Bombi1t0,HOME,2,1,1,D,D,D
+1e964f64-e63e-40a3-883c-92085d6a0d80,2020-04-18,17:32,Champions League,ПСЖ,JKey,AWAY,2,1,1,D,D,D
+12d2b8a5-a91e-4a8a-b90d-3facbba31c5a,2020-04-18,17:44,Champions League,Ливерпуль,Arcos,HOME,0,0,0,D,D,D
+12d2b8a5-a91e-4a8a-b90d-3facbba31c5a,2020-04-18,17:44,Champions League,Манчестер Сити,Skromnuy,AWAY,0,0,0,D,D,D
+943f91ea-67d7-42a1-89cb-7da23f2e66b7,2020-04-18,17:44,Champions League,ПСЖ,JKey,HOME,2,0,2,W,D,W
+943f91ea-67d7-42a1-89cb-7da23f2e66b7,2020-04-18,17:44,Champions League,Барселона,Mr.Jab,AWAY,1,0,1,L,D,L
+2a9ba885-54e5-44be-b3fc-77178276a16d,2020-04-18,17:56,Champions League,ПСЖ,JKey,HOME,0,0,0,L,L,L
+2a9ba885-54e5-44be-b3fc-77178276a16d,2020-04-18,17:56,Champions League,Манчестер Сити,Skromnuy,AWAY,2,1,1,W,W,W
+820f1457-9e4a-487e-87b1-8bbc1c5b0017,2020-04-18,17:56,Champions League,Реал Мадрид,Bombi1t0,HOME,1,0,1,L,L,D
+820f1457-9e4a-487e-87b1-8bbc1c5b0017,2020-04-18,17:56,Champions League,Барселона,Mr.Jab,AWAY,3,2,1,W,W,D
+d0546a04-2397-49bf-ae26-5bada6038ced,2020-04-18,18:08,Champions League,Ливерпуль,Arcos,HOME,3,1,2,W,W,W
+d0546a04-2397-49bf-ae26-5bada6038ced,2020-04-18,18:08,Champions League,ПСЖ,JKey,AWAY,1,0,1,L,L,L
+1a04194a-1bf8-431f-911a-cc36938189c3,2020-04-18,18:08,Champions League,Манчестер Сити,Skromnuy,HOME,1,0,1,D,L,W
+1a04194a-1bf8-431f-911a-cc36938189c3,2020-04-18,18:08,Champions League,Реал Мадрид,Bombi1t0,AWAY,1,1,0,D,W,L
+9d54160e-d8d9-4a29-ad25-d50c2ac6f29f,2020-04-18,18:20,Champions League,Барселона,Mr.Jab,HOME,1,1,0,D,W,L
+9d54160e-d8d9-4a29-ad25-d50c2ac6f29f,2020-04-18,18:20,Champions League,Манчестер Сити,Skromnuy,AWAY,1,0,1,D,L,W
+e0b8c68b-c5ae-4539-8c8b-1c8810c67733,2020-04-18,18:20,Champions League,Реал Мадрид,Bombi1t0,HOME,2,2,0,D,W,L
+e0b8c68b-c5ae-4539-8c8b-1c8810c67733,2020-04-18,18:20,Champions League,Ливерпуль,Arcos,AWAY,2,1,1,D,L,W
+7491c49b-c66a-4695-b23d-33759a8e3636,2020-04-18,18:32,Champions League,Ливерпуль,Arcos,HOME,1,0,1,D,L,W
+7491c49b-c66a-4695-b23d-33759a8e3636,2020-04-18,18:32,Champions League,Барселона,Mr.Jab,AWAY,1,1,0,D,W,L
+bd2edf22-8d16-41b7-814c-4a725506457c,2020-04-18,18:44,Champions League,Барселона,Mr.Jab,HOME,2,1,1,W,W,W
+bd2edf22-8d16-41b7-814c-4a725506457c,2020-04-18,18:44,Champions League,ПСЖ,JKey,AWAY,0,0,0,L,L,L
+7335e9c1-75bc-4dbe-a506-b4e5feea184a,2020-04-18,18:44,Champions League,Манчестер Сити,Skromnuy,HOME,1,1,0,L,D,L
+7335e9c1-75bc-4dbe-a506-b4e5feea184a,2020-04-18,18:44,Champions League,Ливерпуль,Arcos,AWAY,2,1,1,W,D,W
+ff958673-d576-4d59-8570-be5110a150b7,2020-04-18,01:26,Champions League B,Наполи,MeLToSiK,HOME,1,0,1,L,L,D
+ff958673-d576-4d59-8570-be5110a150b7,2020-04-18,01:26,Champions League B,Бавария,KRaftVK,AWAY,2,1,1,W,W,D
+a1ee44b4-28ae-4b55-b994-f163d754d0c6,2020-04-18,01:26,Champions League B,Тоттенхэм Хотспур,labotryas,HOME,0,0,0,D,D,D
+a1ee44b4-28ae-4b55-b994-f163d754d0c6,2020-04-18,01:26,Champions League B,ПСЖ,Upcake22,AWAY,0,0,0,D,D,D
+be874e2a-038d-4986-b8d1-f1d392389aef,2020-04-18,01:38,Champions League B,Бавария,KRaftVK,HOME,2,1,1,W,W,W
+be874e2a-038d-4986-b8d1-f1d392389aef,2020-04-18,01:38,Champions League B,Реал Мадрид,Kray,AWAY,0,0,0,L,L,L
+035c6cd7-8db1-42e9-85bf-6c0141cacdea,2020-04-18,01:38,Champions League B,ПСЖ,Upcake22,HOME,0,0,0,L,L,D
+035c6cd7-8db1-42e9-85bf-6c0141cacdea,2020-04-18,01:38,Champions League B,Наполи,MeLToSiK,AWAY,1,1,0,W,W,D
+55a5b425-9b6d-43d5-b928-327f20e81d5a,2020-04-18,01:50,Champions League B,Наполи,MeLToSiK,HOME,0,0,0,D,D,D
+55a5b425-9b6d-43d5-b928-327f20e81d5a,2020-04-18,01:50,Champions League B,Тоттенхэм Хотспур,labotryas,AWAY,0,0,0,D,D,D
+195144c6-c043-4202-87ee-7506152a68cd,2020-04-18,01:50,Champions League B,Реал Мадрид,Kray,HOME,3,1,2,L,L,D
+195144c6-c043-4202-87ee-7506152a68cd,2020-04-18,01:50,Champions League B,ПСЖ,Upcake22,AWAY,5,3,2,W,W,D
+8f45d0a6-42d7-468f-b885-f9e009cfc0b8,2020-04-18,02:02,Champions League B,ПСЖ,Upcake22,HOME,2,2,0,W,W,D
+8f45d0a6-42d7-468f-b885-f9e009cfc0b8,2020-04-18,02:02,Champions League B,Бавария,KRaftVK,AWAY,1,1,0,L,L,D
+afd40643-e616-44fd-ab7f-f01f7630ca83,2020-04-18,02:02,Champions League B,Тоттенхэм Хотспур,labotryas,HOME,2,1,1,L,D,L
+afd40643-e616-44fd-ab7f-f01f7630ca83,2020-04-18,02:02,Champions League B,Реал Мадрид,Kray,AWAY,3,1,2,W,D,W
+3d935683-2552-4520-9568-7a37f261bae6,2020-04-18,02:14,Champions League B,Бавария,KRaftVK,HOME,0,0,0,D,D,D
+3d935683-2552-4520-9568-7a37f261bae6,2020-04-18,02:14,Champions League B,Тоттенхэм Хотспур,labotryas,AWAY,0,0,0,D,D,D
+a40788ef-1bed-4b1f-9fc0-e42d9bc1f417,2020-04-18,02:14,Champions League B,Реал Мадрид,Kray,HOME,2,0,2,D,D,D
+a40788ef-1bed-4b1f-9fc0-e42d9bc1f417,2020-04-18,02:14,Champions League B,Наполи,MeLToSiK,AWAY,2,0,2,D,D,D
+a0fadbeb-a379-42c4-8d67-300a4e90edc6,2020-04-18,02:26,Champions League B,Бавария,KRaftVK,HOME,0,0,0,D,D,D
+a0fadbeb-a379-42c4-8d67-300a4e90edc6,2020-04-18,02:26,Champions League B,Наполи,MeLToSiK,AWAY,0,0,0,D,D,D
+ef824a4f-63d5-4aa0-b7e2-6c7111d6b440,2020-04-18,02:26,Champions League B,ПСЖ,Upcake22,HOME,1,0,1,L,D,L
+ef824a4f-63d5-4aa0-b7e2-6c7111d6b440,2020-04-18,02:26,Champions League B,Тоттенхэм Хотспур,labotryas,AWAY,2,0,2,W,D,W
+1c8557bf-662b-4177-b412-454a3a6cde0c,2020-04-18,02:38,Champions League B,Наполи,MeLToSiK,HOME,3,0,3,W,D,W
+1c8557bf-662b-4177-b412-454a3a6cde0c,2020-04-18,02:38,Champions League B,ПСЖ,Upcake22,AWAY,1,0,1,L,D,L
+119f07bb-8dec-442b-a288-abeaa15d5b11,2020-04-18,02:38,Champions League B,Реал Мадрид,Kray,HOME,0,0,0,L,L,D
+119f07bb-8dec-442b-a288-abeaa15d5b11,2020-04-18,02:38,Champions League B,Бавария,KRaftVK,AWAY,2,2,0,W,W,D
+d9896f90-19f3-4566-b076-387ea316c6e7,2020-04-18,02:50,Champions League B,ПСЖ,Upcake22,HOME,2,2,0,W,W,D
+d9896f90-19f3-4566-b076-387ea316c6e7,2020-04-18,02:50,Champions League B,Реал Мадрид,Kray,AWAY,0,0,0,L,L,D
+204f39f3-bc34-4da6-845f-7c8f1fc56d49,2020-04-18,02:50,Champions League B,Тоттенхэм Хотспур,labotryas,HOME,2,1,1,W,W,D
+204f39f3-bc34-4da6-845f-7c8f1fc56d49,2020-04-18,02:50,Champions League B,Наполи,MeLToSiK,AWAY,1,0,1,L,L,D
+f8edc4eb-142a-41ac-826b-a603e1a2e004,2020-04-18,03:02,Champions League B,Бавария,KRaftVK,HOME,1,1,0,D,W,L
+f8edc4eb-142a-41ac-826b-a603e1a2e004,2020-04-18,03:02,Champions League B,ПСЖ,Upcake22,AWAY,1,0,1,D,L,W
+85829426-c6a7-4a4d-a75c-fd983d36e0ec,2020-04-18,03:02,Champions League B,Реал Мадрид,Kray,HOME,1,0,1,L,L,L
+85829426-c6a7-4a4d-a75c-fd983d36e0ec,2020-04-18,03:02,Champions League B,Тоттенхэм Хотспур,labotryas,AWAY,3,1,2,W,W,W
+62ff7698-36df-4276-83f2-036428b31a9e,2020-04-18,03:14,Champions League B,Наполи,MeLToSiK,HOME,3,1,2,W,W,W
+62ff7698-36df-4276-83f2-036428b31a9e,2020-04-18,03:14,Champions League B,Реал Мадрид,Kray,AWAY,1,0,1,L,L,L
+64d66294-6ac9-4fd1-b904-757d78018ace,2020-04-18,03:14,Champions League B,Тоттенхэм Хотспур,labotryas,HOME,1,1,0,L,D,L
+64d66294-6ac9-4fd1-b904-757d78018ace,2020-04-18,03:14,Champions League B,Бавария,KRaftVK,AWAY,2,1,1,W,D,W
+0db3cdde-f52d-4eb7-838e-e725ea85b14e,2020-04-18,09:56,Champions League B,Наполи,orlovsky1,HOME,3,0,3,W,D,W
+0db3cdde-f52d-4eb7-838e-e725ea85b14e,2020-04-18,09:56,Champions League B,ПСЖ,vrico,AWAY,0,0,0,L,D,L
+00dc79f5-ecd2-4224-93ab-ed081fbce7bc,2020-04-18,09:56,Champions League B,Реал Мадрид,LaikingDast,HOME,1,1,0,L,D,L
+00dc79f5-ecd2-4224-93ab-ed081fbce7bc,2020-04-18,09:56,Champions League B,Тоттенхэм Хотспур,dm1trena,AWAY,2,1,1,W,D,W
+0d9c3e27-460e-4a75-bb86-1c3a0cd240d9,2020-04-18,10:08,Champions League B,ПСЖ,vrico,HOME,1,1,0,D,W,L
+0d9c3e27-460e-4a75-bb86-1c3a0cd240d9,2020-04-18,10:08,Champions League B,Бавария,Hrusch,AWAY,1,0,1,D,L,W
+92c96de7-d355-4278-ae2a-436136f95146,2020-04-18,10:08,Champions League B,Тоттенхэм Хотспур,dm1trena,HOME,0,0,0,D,D,D
+92c96de7-d355-4278-ae2a-436136f95146,2020-04-18,10:08,Champions League B,Наполи,orlovsky1,AWAY,0,0,0,D,D,D
+4acff0f1-a8fc-4707-8cda-4ed1acd4c463,2020-04-18,10:20,Champions League B,Бавария,Hrusch,HOME,2,1,1,W,D,W
+4acff0f1-a8fc-4707-8cda-4ed1acd4c463,2020-04-18,10:20,Champions League B,Тоттенхэм Хотспур,dm1trena,AWAY,1,1,0,L,D,L
+918f1711-6c89-4642-92de-1d7fe816ce2f,2020-04-18,10:20,Champions League B,Наполи,orlovsky1,HOME,0,0,0,D,D,D
+918f1711-6c89-4642-92de-1d7fe816ce2f,2020-04-18,10:20,Champions League B,Реал Мадрид,LaikingDast,AWAY,0,0,0,D,D,D
+f99b5262-f9a8-48df-8731-44e98cdf7cf4,2020-04-18,10:32,Champions League B,Реал Мадрид,LaikingDast,HOME,0,0,0,L,L,L
+f99b5262-f9a8-48df-8731-44e98cdf7cf4,2020-04-18,10:32,Champions League B,Бавария,Hrusch,AWAY,2,1,1,W,W,W
+531b8e95-30e9-43c9-86b1-d86aa4988138,2020-04-18,10:32,Champions League B,Тоттенхэм Хотспур,dm1trena,HOME,0,0,0,L,L,L
+531b8e95-30e9-43c9-86b1-d86aa4988138,2020-04-18,10:32,Champions League B,ПСЖ,vrico,AWAY,2,1,1,W,W,W
+b71f9666-f36d-4154-84d0-a0d383d51be0,2020-04-18,10:44,Champions League B,Бавария,Hrusch,HOME,2,0,2,D,D,D
+b71f9666-f36d-4154-84d0-a0d383d51be0,2020-04-18,10:44,Champions League B,Наполи,orlovsky1,AWAY,2,0,2,D,D,D
+74f9053d-c097-406f-9908-a1bf1d765c0d,2020-04-18,10:44,Champions League B,ПСЖ,vrico,HOME,0,0,0,L,D,L
+74f9053d-c097-406f-9908-a1bf1d765c0d,2020-04-18,10:44,Champions League B,Реал Мадрид,LaikingDast,AWAY,2,0,2,W,D,W
+babbecf2-51c2-40b8-b747-7ca036114e57,2020-04-18,10:56,Champions League B,ПСЖ,vrico,HOME,1,0,1,L,L,W
+babbecf2-51c2-40b8-b747-7ca036114e57,2020-04-18,10:56,Champions League B,Наполи,orlovsky1,AWAY,2,2,0,W,W,L
+b6c89384-15c5-431b-a146-7023c19110fc,2020-04-18,10:56,Champions League B,Тоттенхэм Хотспур,dm1trena,HOME,0,0,0,D,D,D
+b6c89384-15c5-431b-a146-7023c19110fc,2020-04-18,10:56,Champions League B,Реал Мадрид,LaikingDast,AWAY,0,0,0,D,D,D
+0362e927-9669-4a7e-8fe8-8513e5ab4664,2020-04-18,11:08,Champions League B,Бавария,Hrusch,HOME,1,0,1,D,D,D
+0362e927-9669-4a7e-8fe8-8513e5ab4664,2020-04-18,11:08,Champions League B,ПСЖ,vrico,AWAY,1,0,1,D,D,D
+a848ded7-42bf-4ede-81a9-1a89859751f3,2020-04-18,11:08,Champions League B,Наполи,orlovsky1,HOME,2,1,1,L,L,W
+a848ded7-42bf-4ede-81a9-1a89859751f3,2020-04-18,11:08,Champions League B,Тоттенхэм Хотспур,dm1trena,AWAY,3,3,0,W,W,L
+94909eff-a85e-401f-941c-441e34fe1d62,2020-04-18,11:20,Champions League B,Реал Мадрид,LaikingDast,HOME,4,1,3,W,W,W
+94909eff-a85e-401f-941c-441e34fe1d62,2020-04-18,11:20,Champions League B,Наполи,orlovsky1,AWAY,0,0,0,L,L,L
+d2e9284d-30ed-4bc7-b8e1-dbf60cfe05a3,2020-04-18,11:20,Champions League B,Тоттенхэм Хотспур,dm1trena,HOME,2,1,1,W,W,W
+d2e9284d-30ed-4bc7-b8e1-dbf60cfe05a3,2020-04-18,11:20,Champions League B,Бавария,Hrusch,AWAY,0,0,0,L,L,L
+43b4c614-06fd-434c-aae3-87caaaaa91f4,2020-04-18,11:32,Champions League B,Бавария,Hrusch,HOME,0,0,0,L,D,L
+43b4c614-06fd-434c-aae3-87caaaaa91f4,2020-04-18,11:32,Champions League B,Реал Мадрид,LaikingDast,AWAY,2,0,2,W,D,W
+1ee16149-e8a1-4028-afc4-98d3b068e274,2020-04-18,11:32,Champions League B,ПСЖ,vrico,HOME,0,0,0,L,L,L
+1ee16149-e8a1-4028-afc4-98d3b068e274,2020-04-18,11:32,Champions League B,Тоттенхэм Хотспур,dm1trena,AWAY,3,2,1,W,W,W
+2339dedd-e1ef-4968-952a-86dae8b133be,2020-04-18,11:44,Champions League B,Наполи,orlovsky1,HOME,1,0,1,W,D,W
+2339dedd-e1ef-4968-952a-86dae8b133be,2020-04-18,11:44,Champions League B,Бавария,Hrusch,AWAY,0,0,0,L,D,L
+b14f1718-72a2-4eca-90ec-3459b2c6324b,2020-04-18,11:44,Champions League B,Реал Мадрид,LaikingDast,HOME,0,0,0,L,D,L
+b14f1718-72a2-4eca-90ec-3459b2c6324b,2020-04-18,11:44,Champions League B,ПСЖ,vrico,AWAY,1,0,1,W,D,W
+86b6a5d1-29bf-4694-99cc-a832a118836f,2020-04-18,03:56,Champions League C,Атлетико Мадрид,MeLToSiK,HOME,1,1,0,W,W,D
+86b6a5d1-29bf-4694-99cc-a832a118836f,2020-04-18,03:56,Champions League C,Боруссия Дортмунд,KRaftVK,AWAY,0,0,0,L,L,D
+a6836b29-e8d3-40b1-88eb-fe237889ddc6,2020-04-18,03:56,Champions League C,Интер,labotryas,HOME,1,0,1,W,D,W
+a6836b29-e8d3-40b1-88eb-fe237889ddc6,2020-04-18,03:56,Champions League C,Аякс,Upcake22,AWAY,0,0,0,L,D,L
+f7d6b479-dc84-487d-ac13-ecbab0792e7b,2020-04-18,04:08,Champions League C,Аякс,Upcake22,HOME,1,0,1,L,L,L
+f7d6b479-dc84-487d-ac13-ecbab0792e7b,2020-04-18,04:08,Champions League C,Атлетико Мадрид,MeLToSiK,AWAY,4,1,3,W,W,W
+27b01351-55db-4d1f-ad73-0df6d2ed0c40,2020-04-18,04:08,Champions League C,Боруссия Дортмунд,KRaftVK,HOME,1,1,0,L,L,L
+27b01351-55db-4d1f-ad73-0df6d2ed0c40,2020-04-18,04:08,Champions League C,Челси,Kray,AWAY,4,2,2,W,W,W
+5a4e65b0-fea1-4470-9226-d378f4b05f1b,2020-04-18,04:20,Champions League C,Атлетико Мадрид,MeLToSiK,HOME,2,1,1,W,W,W
+5a4e65b0-fea1-4470-9226-d378f4b05f1b,2020-04-18,04:20,Champions League C,Интер,labotryas,AWAY,0,0,0,L,L,L
+d66c6cf9-6e83-4402-9cb5-39bb86b93610,2020-04-18,04:20,Champions League C,Челси,Kray,HOME,2,1,1,W,W,W
+d66c6cf9-6e83-4402-9cb5-39bb86b93610,2020-04-18,04:20,Champions League C,Аякс,Upcake22,AWAY,0,0,0,L,L,L
+26d56f48-ced7-46bf-bb3f-fa418570bc7a,2020-04-18,04:32,Champions League C,Аякс,Upcake22,HOME,0,0,0,L,L,L
+26d56f48-ced7-46bf-bb3f-fa418570bc7a,2020-04-18,04:32,Champions League C,Боруссия Дортмунд,KRaftVK,AWAY,3,2,1,W,W,W
+fefa6c0c-4350-4989-8df2-2681aae6e3a2,2020-04-18,04:32,Champions League C,Интер,labotryas,HOME,1,0,1,L,D,L
+fefa6c0c-4350-4989-8df2-2681aae6e3a2,2020-04-18,04:32,Champions League C,Челси,Kray,AWAY,2,0,2,W,D,W
+e8a4b699-3a51-4877-ab5e-484091d22e56,2020-04-18,04:44,Champions League C,Боруссия Дортмунд,KRaftVK,HOME,0,0,0,D,D,D
+e8a4b699-3a51-4877-ab5e-484091d22e56,2020-04-18,04:44,Champions League C,Интер,labotryas,AWAY,0,0,0,D,D,D
+40a29a9b-d2d8-4239-9f96-e35d32183c44,2020-04-18,04:44,Champions League C,Челси,Kray,HOME,1,0,1,D,D,D
+40a29a9b-d2d8-4239-9f96-e35d32183c44,2020-04-18,04:44,Champions League C,Атлетико Мадрид,MeLToSiK,AWAY,1,0,1,D,D,D
+50a19158-4ec4-4bea-9376-4f9208442340,2020-04-18,04:56,Champions League C,Аякс,Upcake22,HOME,2,2,0,D,W,L
+50a19158-4ec4-4bea-9376-4f9208442340,2020-04-18,04:56,Champions League C,Интер,labotryas,AWAY,2,1,1,D,L,W
+84cb1e08-a301-4257-b419-b037bfc09d67,2020-04-18,04:56,Champions League C,Боруссия Дортмунд,KRaftVK,HOME,1,0,1,D,D,D
+84cb1e08-a301-4257-b419-b037bfc09d67,2020-04-18,04:56,Champions League C,Атлетико Мадрид,MeLToSiK,AWAY,1,0,1,D,D,D
+22001354-03f0-452d-b888-0c1c3bb271f4,2020-04-18,05:08,Champions League C,Атлетико Мадрид,MeLToSiK,HOME,2,1,1,D,L,W
+22001354-03f0-452d-b888-0c1c3bb271f4,2020-04-18,05:08,Champions League C,Аякс,Upcake22,AWAY,2,2,0,D,W,L
+08c109c8-1cae-4b1a-8844-12fc3dbd574a,2020-04-18,05:08,Champions League C,Челси,Kray,HOME,0,0,0,D,D,D
+08c109c8-1cae-4b1a-8844-12fc3dbd574a,2020-04-18,05:08,Champions League C,Боруссия Дортмунд,KRaftVK,AWAY,0,0,0,D,D,D
+5740536d-19ee-4d4a-920b-22f0415e1d57,2020-04-18,05:20,Champions League C,Аякс,Upcake22,HOME,0,0,0,L,D,L
+5740536d-19ee-4d4a-920b-22f0415e1d57,2020-04-18,05:20,Champions League C,Челси,Kray,AWAY,1,0,1,W,D,W
+1aa5ca57-6ece-4525-b141-409279f1b2de,2020-04-18,05:20,Champions League C,Интер,labotryas,HOME,1,0,1,D,D,D
+1aa5ca57-6ece-4525-b141-409279f1b2de,2020-04-18,05:20,Champions League C,Атлетико Мадрид,MeLToSiK,AWAY,1,0,1,D,D,D
+59279f75-a45d-4e56-b032-9e3d11001190,2020-04-18,05:32,Champions League C,Боруссия Дортмунд,KRaftVK,HOME,2,1,1,D,D,D
+59279f75-a45d-4e56-b032-9e3d11001190,2020-04-18,05:32,Champions League C,Аякс,Upcake22,AWAY,2,1,1,D,D,D
+061374d7-edfa-4c18-88a0-7f9135b24ed5,2020-04-18,05:32,Champions League C,Челси,Kray,HOME,2,0,2,D,L,W
+061374d7-edfa-4c18-88a0-7f9135b24ed5,2020-04-18,05:32,Champions League C,Интер,labotryas,AWAY,2,1,1,D,W,L
+eebccef1-7b8e-46f1-bcfa-1c2d072dda26,2020-04-18,05:44,Champions League C,Атлетико Мадрид,MeLToSiK,HOME,2,1,1,W,D,W
+eebccef1-7b8e-46f1-bcfa-1c2d072dda26,2020-04-18,05:44,Champions League C,Челси,Kray,AWAY,1,1,0,L,D,L
+b37ab3b4-2eed-436c-8180-109c908f2add,2020-04-18,05:44,Champions League C,Интер,labotryas,HOME,0,0,0,D,D,D
+b37ab3b4-2eed-436c-8180-109c908f2add,2020-04-18,05:44,Champions League C,Боруссия Дортмунд,KRaftVK,AWAY,0,0,0,D,D,D
+43ba69f9-0167-407e-8c38-7014ce6d319e,2020-04-18,07:56,CIS Cup,Динамо Киев,orlovsky1,HOME,0,0,0,D,D,D
+43ba69f9-0167-407e-8c38-7014ce6d319e,2020-04-18,07:56,CIS Cup,Локомотив Москва,vrico,AWAY,0,0,0,D,D,D
+e8055ef6-ff39-4168-bf2f-b5b156156af2,2020-04-18,07:56,CIS Cup,Шахтер Донецк,LaikingDast,HOME,1,1,0,D,W,L
+e8055ef6-ff39-4168-bf2f-b5b156156af2,2020-04-18,07:56,CIS Cup,ЦСКА Москва,dm1trena,AWAY,1,0,1,D,L,W
+881a8e1d-b082-43b2-a7e1-e19750f21194,2020-04-18,08:08,CIS Cup,Локомотив Москва,vrico,HOME,0,0,0,D,D,D
+881a8e1d-b082-43b2-a7e1-e19750f21194,2020-04-18,08:08,CIS Cup,Спартак Москва,Hrusch,AWAY,0,0,0,D,D,D
+13f8b0d5-a1f9-4cbf-a2ea-3aa62ead4eeb,2020-04-18,08:08,CIS Cup,ЦСКА Москва,dm1trena,HOME,1,0,1,L,L,D
+13f8b0d5-a1f9-4cbf-a2ea-3aa62ead4eeb,2020-04-18,08:08,CIS Cup,Динамо Киев,orlovsky1,AWAY,2,1,1,W,W,D
+f379de76-fdb2-4741-8957-d24bccce0658,2020-04-18,08:20,CIS Cup,Динамо Киев,orlovsky1,HOME,1,1,0,W,W,D
+f379de76-fdb2-4741-8957-d24bccce0658,2020-04-18,08:20,CIS Cup,Шахтер Донецк,LaikingDast,AWAY,0,0,0,L,L,D
+a9a8bcdf-6f3c-4a47-afc8-e42050a06829,2020-04-18,08:20,CIS Cup,Спартак Москва,Hrusch,HOME,0,0,0,L,L,L
+a9a8bcdf-6f3c-4a47-afc8-e42050a06829,2020-04-18,08:20,CIS Cup,ЦСКА Москва,dm1trena,AWAY,2,1,1,W,W,W
+b7fd41d1-e117-4651-b44a-1eda8b14a9fc,2020-04-18,08:32,CIS Cup,ЦСКА Москва,dm1trena,HOME,3,2,1,W,W,W
+b7fd41d1-e117-4651-b44a-1eda8b14a9fc,2020-04-18,08:32,CIS Cup,Локомотив Москва,vrico,AWAY,0,0,0,L,L,L
+fe20338f-1a42-4c61-baa2-b720a141ac8c,2020-04-18,08:32,CIS Cup,Шахтер Донецк,LaikingDast,HOME,1,0,1,D,D,D
+fe20338f-1a42-4c61-baa2-b720a141ac8c,2020-04-18,08:32,CIS Cup,Спартак Москва,Hrusch,AWAY,1,0,1,D,D,D
+a1d1773b-0ee9-487d-9746-b5f2157b2a34,2020-04-18,08:44,CIS Cup,Локомотив Москва,vrico,HOME,0,0,0,D,D,D
+a1d1773b-0ee9-487d-9746-b5f2157b2a34,2020-04-18,08:44,CIS Cup,Шахтер Донецк,LaikingDast,AWAY,0,0,0,D,D,D
+606b52d2-2f42-46f4-9029-99a447817791,2020-04-18,08:44,CIS Cup,Спартак Москва,Hrusch,HOME,1,0,1,D,D,D
+606b52d2-2f42-46f4-9029-99a447817791,2020-04-18,08:44,CIS Cup,Динамо Киев,orlovsky1,AWAY,1,0,1,D,D,D
+ce1af0d2-b4c7-4d87-8f88-b7ddd2f09ff4,2020-04-18,08:56,CIS Cup,Локомотив Москва,vrico,HOME,0,0,0,D,D,D
+ce1af0d2-b4c7-4d87-8f88-b7ddd2f09ff4,2020-04-18,08:56,CIS Cup,Динамо Киев,orlovsky1,AWAY,0,0,0,D,D,D
+1909b0b9-78ff-4324-a0f7-1e61ff00fdc1,2020-04-18,08:56,CIS Cup,ЦСКА Москва,dm1trena,HOME,0,0,0,D,D,D
+1909b0b9-78ff-4324-a0f7-1e61ff00fdc1,2020-04-18,08:56,CIS Cup,Шахтер Донецк,LaikingDast,AWAY,0,0,0,D,D,D
+bf822ce0-b631-451e-85d2-ce82145cb8df,2020-04-18,09:08,CIS Cup,Динамо Киев,orlovsky1,HOME,2,1,1,L,L,L
+bf822ce0-b631-451e-85d2-ce82145cb8df,2020-04-18,09:08,CIS Cup,ЦСКА Москва,dm1trena,AWAY,4,2,2,W,W,W
+fb926c23-9166-4a01-9ce5-74d00745b068,2020-04-18,09:08,CIS Cup,Спартак Москва,Hrusch,HOME,0,0,0,D,D,D
+fb926c23-9166-4a01-9ce5-74d00745b068,2020-04-18,09:08,CIS Cup,Локомотив Москва,vrico,AWAY,0,0,0,D,D,D
+e53320ed-61df-4863-b0d9-eeabe2cc3af7,2020-04-18,09:20,CIS Cup,ЦСКА Москва,dm1trena,HOME,0,0,0,L,L,D
+e53320ed-61df-4863-b0d9-eeabe2cc3af7,2020-04-18,09:20,CIS Cup,Спартак Москва,Hrusch,AWAY,1,1,0,W,W,D
+11c4dc3b-977f-4626-be68-b65491e606d6,2020-04-18,09:20,CIS Cup,Шахтер Донецк,LaikingDast,HOME,1,1,0,L,L,L
+11c4dc3b-977f-4626-be68-b65491e606d6,2020-04-18,09:20,CIS Cup,Динамо Киев,orlovsky1,AWAY,3,2,1,W,W,W
+bdc20afd-7439-4c56-a1f4-8afa45d526c4,2020-04-18,09:32,CIS Cup,Локомотив Москва,vrico,HOME,0,0,0,D,D,D
+bdc20afd-7439-4c56-a1f4-8afa45d526c4,2020-04-18,09:32,CIS Cup,ЦСКА Москва,dm1trena,AWAY,0,0,0,D,D,D
+b2543a59-7da8-440e-8c7c-e622d38ccb27,2020-04-18,09:32,CIS Cup,Спартак Москва,Hrusch,HOME,2,1,1,W,D,W
+b2543a59-7da8-440e-8c7c-e622d38ccb27,2020-04-18,09:32,CIS Cup,Шахтер Донецк,LaikingDast,AWAY,1,1,0,L,D,L
+38efee7c-c9dc-4b83-844d-b3f0f1f0dc8d,2020-04-18,09:44,CIS Cup,Динамо Киев,orlovsky1,HOME,1,1,0,L,L,D
+38efee7c-c9dc-4b83-844d-b3f0f1f0dc8d,2020-04-18,09:44,CIS Cup,Спартак Москва,Hrusch,AWAY,2,2,0,W,W,D
+e7ad16ab-3916-41d5-96b0-afa2dd82fd03,2020-04-18,09:44,CIS Cup,Шахтер Донецк,LaikingDast,HOME,1,1,0,L,W,L
+e7ad16ab-3916-41d5-96b0-afa2dd82fd03,2020-04-18,09:44,CIS Cup,Локомотив Москва,vrico,AWAY,2,0,2,W,L,W
+bf4aec08-a55c-4530-b1fa-46f24ebf1c53,2020-04-18,05:56,Euro 2020,Испания,labotryas,HOME,1,1,0,D,D,D
+bf4aec08-a55c-4530-b1fa-46f24ebf1c53,2020-04-18,05:56,Euro 2020,Германия,Upcake22,AWAY,1,1,0,D,D,D
+6142d256-618f-48b9-bed3-7028d826a68f,2020-04-18,05:56,Euro 2020,Португалия,MeLToSiK,HOME,1,1,0,D,W,L
+6142d256-618f-48b9-bed3-7028d826a68f,2020-04-18,05:56,Euro 2020,Бельгия,KRaftVK,AWAY,1,0,1,D,L,W
+812c2e7b-498a-4fcb-a115-5456c25d2fdd,2020-04-18,06:08,Euro 2020,Бельгия,KRaftVK,HOME,1,1,0,D,W,L
+812c2e7b-498a-4fcb-a115-5456c25d2fdd,2020-04-18,06:08,Euro 2020,Франция,Kray,AWAY,1,0,1,D,L,W
+f5aa8011-4254-486e-870a-917267aed4f2,2020-04-18,06:08,Euro 2020,Германия,Upcake22,HOME,2,2,0,W,W,D
+f5aa8011-4254-486e-870a-917267aed4f2,2020-04-18,06:08,Euro 2020,Португалия,MeLToSiK,AWAY,0,0,0,L,L,D
+1f45150a-709d-49d5-ae21-1f25c7c23f7e,2020-04-18,06:20,Euro 2020,Португалия,MeLToSiK,HOME,0,0,0,D,D,D
+1f45150a-709d-49d5-ae21-1f25c7c23f7e,2020-04-18,06:20,Euro 2020,Испания,labotryas,AWAY,0,0,0,D,D,D
+23c3dce2-01a1-4dee-8c51-a42f43181da0,2020-04-18,06:20,Euro 2020,Франция,Kray,HOME,3,3,0,W,W,D
+23c3dce2-01a1-4dee-8c51-a42f43181da0,2020-04-18,06:20,Euro 2020,Германия,Upcake22,AWAY,0,0,0,L,L,D
+8489dd5c-f9b5-4a98-9a12-24743e50c173,2020-04-18,06:32,Euro 2020,Германия,Upcake22,HOME,2,2,0,W,W,D
+8489dd5c-f9b5-4a98-9a12-24743e50c173,2020-04-18,06:32,Euro 2020,Бельгия,KRaftVK,AWAY,0,0,0,L,L,D
+5a57b30a-124d-437e-9012-5a78e1cc848f,2020-04-18,06:32,Euro 2020,Испания,labotryas,HOME,1,1,0,W,W,D
+5a57b30a-124d-437e-9012-5a78e1cc848f,2020-04-18,06:32,Euro 2020,Франция,Kray,AWAY,0,0,0,L,L,D
+947565f3-c026-4839-9d7c-e95c17fae493,2020-04-18,06:44,Euro 2020,Бельгия,KRaftVK,HOME,0,0,0,L,L,L
+947565f3-c026-4839-9d7c-e95c17fae493,2020-04-18,06:44,Euro 2020,Испания,labotryas,AWAY,2,1,1,W,W,W
+dafaa313-541a-41cb-932f-1396c34ba22a,2020-04-18,06:44,Euro 2020,Франция,Kray,HOME,2,2,0,W,W,L
+dafaa313-541a-41cb-932f-1396c34ba22a,2020-04-18,06:44,Euro 2020,Португалия,MeLToSiK,AWAY,1,0,1,L,L,W
+7cce25c8-0008-49ad-8a0a-60baa1e26a65,2020-04-18,06:56,Euro 2020,Бельгия,KRaftVK,HOME,3,1,2,W,W,W
+7cce25c8-0008-49ad-8a0a-60baa1e26a65,2020-04-18,06:56,Euro 2020,Португалия,MeLToSiK,AWAY,0,0,0,L,L,L
+b512107e-fe0d-4460-8265-c53bd2834c7c,2020-04-18,06:56,Euro 2020,Германия,Upcake22,HOME,3,1,2,W,W,W
+b512107e-fe0d-4460-8265-c53bd2834c7c,2020-04-18,06:56,Euro 2020,Испания,labotryas,AWAY,1,0,1,L,L,L
+de1224c4-38da-4686-9fa3-317dcf8672ca,2020-04-18,07:08,Euro 2020,Португалия,MeLToSiK,HOME,3,2,1,W,W,D
+de1224c4-38da-4686-9fa3-317dcf8672ca,2020-04-18,07:08,Euro 2020,Германия,Upcake22,AWAY,1,0,1,L,L,D
+50b22015-6125-401c-9c7b-34397d113378,2020-04-18,07:08,Euro 2020,Франция,Kray,HOME,2,1,1,D,L,W
+50b22015-6125-401c-9c7b-34397d113378,2020-04-18,07:08,Euro 2020,Бельгия,KRaftVK,AWAY,2,2,0,D,W,L
+7b32905c-45cd-4203-9fd8-e807b5ff3713,2020-04-18,07:20,Euro 2020,Германия,Upcake22,HOME,1,1,0,D,D,D
+7b32905c-45cd-4203-9fd8-e807b5ff3713,2020-04-18,07:20,Euro 2020,Франция,Kray,AWAY,1,1,0,D,D,D
+b9bf90a5-cf43-4151-bc65-fdbd02319f14,2020-04-18,07:20,Euro 2020,Испания,labotryas,HOME,1,1,0,D,W,L
+b9bf90a5-cf43-4151-bc65-fdbd02319f14,2020-04-18,07:20,Euro 2020,Португалия,MeLToSiK,AWAY,1,0,1,D,L,W
+a0099d5d-e6ac-4d1a-8b74-2deff52db7cd,2020-04-18,07:32,Euro 2020,Бельгия,KRaftVK,HOME,5,3,2,W,W,W
+a0099d5d-e6ac-4d1a-8b74-2deff52db7cd,2020-04-18,07:32,Euro 2020,Германия,Upcake22,AWAY,0,0,0,L,L,L
+5e3b78f9-59aa-4821-9e7e-b06bb71f0238,2020-04-18,07:32,Euro 2020,Франция,Kray,HOME,1,1,0,D,W,L
+5e3b78f9-59aa-4821-9e7e-b06bb71f0238,2020-04-18,07:32,Euro 2020,Испания,labotryas,AWAY,1,0,1,D,L,W
+e9ce1c64-bf0e-4835-8073-a2cd43c8c7a1,2020-04-18,07:44,Euro 2020,Испания,labotryas,HOME,1,0,1,W,D,W
+e9ce1c64-bf0e-4835-8073-a2cd43c8c7a1,2020-04-18,07:44,Euro 2020,Бельгия,KRaftVK,AWAY,0,0,0,L,D,L
+964d8fee-99db-4f45-9599-3c6c631dfee4,2020-04-18,07:44,Euro 2020,Португалия,MeLToSiK,HOME,2,2,0,D,D,D
+964d8fee-99db-4f45-9599-3c6c631dfee4,2020-04-18,07:44,Euro 2020,Франция,Kray,AWAY,2,2,0,D,D,D
+7b52db44-aeef-4959-a2a0-93fb5734e12f,2020-04-18,12:26,Euro 2020,Испания,orlovsky1,HOME,3,1,2,W,W,W
+7b52db44-aeef-4959-a2a0-93fb5734e12f,2020-04-18,12:26,Euro 2020,Германия,vrico,AWAY,0,0,0,L,L,L
+0db93cdd-1532-4bbc-b83a-272bb2bd39e4,2020-04-18,12:26,Euro 2020,Франция,LaikingDast,HOME,1,0,1,D,D,D
+0db93cdd-1532-4bbc-b83a-272bb2bd39e4,2020-04-18,12:26,Euro 2020,Португалия,dm1trena,AWAY,1,0,1,D,D,D
+699b888b-6e1d-4d50-93c4-c1dfba3096f9,2020-04-18,12:38,Euro 2020,Германия,vrico,HOME,1,1,0,D,W,L
+699b888b-6e1d-4d50-93c4-c1dfba3096f9,2020-04-18,12:38,Euro 2020,Бельгия,Hrusch,AWAY,1,0,1,D,L,W
+034f4530-38b3-4da6-801b-fa7eadf375da,2020-04-18,12:38,Euro 2020,Португалия,dm1trena,HOME,2,1,1,D,D,D
+034f4530-38b3-4da6-801b-fa7eadf375da,2020-04-18,12:38,Euro 2020,Испания,orlovsky1,AWAY,2,1,1,D,D,D
+20173597-c00e-4399-887a-283b3c1227d4,2020-04-18,12:50,Euro 2020,Бельгия,Hrusch,HOME,2,1,1,D,D,D
+20173597-c00e-4399-887a-283b3c1227d4,2020-04-18,12:50,Euro 2020,Португалия,dm1trena,AWAY,2,1,1,D,D,D
+70f05ff5-57f9-408c-845d-8f2fcbd3ead8,2020-04-18,12:50,Euro 2020,Испания,orlovsky1,HOME,1,1,0,L,D,L
+70f05ff5-57f9-408c-845d-8f2fcbd3ead8,2020-04-18,12:50,Euro 2020,Франция,LaikingDast,AWAY,2,1,1,W,D,W
+f297fe25-1d2f-449d-8655-5ad0abc807f8,2020-04-18,13:02,Euro 2020,Португалия,dm1trena,HOME,1,0,1,D,D,D
+f297fe25-1d2f-449d-8655-5ad0abc807f8,2020-04-18,13:02,Euro 2020,Германия,vrico,AWAY,1,0,1,D,D,D
+e5e17ff8-8c8e-4bde-b3b9-8b8e379bd5b0,2020-04-18,13:02,Euro 2020,Франция,LaikingDast,HOME,0,0,0,D,D,D
+e5e17ff8-8c8e-4bde-b3b9-8b8e379bd5b0,2020-04-18,13:02,Euro 2020,Бельгия,Hrusch,AWAY,0,0,0,D,D,D
+67d03c13-4ff0-43cf-b51b-9b5fecb610f8,2020-04-18,13:14,Euro 2020,Бельгия,Hrusch,HOME,0,0,0,L,D,L
+67d03c13-4ff0-43cf-b51b-9b5fecb610f8,2020-04-18,13:14,Euro 2020,Испания,orlovsky1,AWAY,1,0,1,W,D,W
+53c4fcec-6d1f-4be9-b274-804b6c1305df,2020-04-18,13:14,Euro 2020,Германия,vrico,HOME,0,0,0,D,D,D
+53c4fcec-6d1f-4be9-b274-804b6c1305df,2020-04-18,13:14,Euro 2020,Франция,LaikingDast,AWAY,0,0,0,D,D,D
+3ecef83d-6ba1-4b02-a541-e20c73703377,2020-04-18,13:26,Euro 2020,Германия,vrico,HOME,0,0,0,L,L,D
+3ecef83d-6ba1-4b02-a541-e20c73703377,2020-04-18,13:26,Euro 2020,Испания,orlovsky1,AWAY,1,1,0,W,W,D
+09ea37f1-6a26-4a44-b5e2-989d85fa48b0,2020-04-18,13:26,Euro 2020,Португалия,dm1trena,HOME,3,1,2,W,D,W
+09ea37f1-6a26-4a44-b5e2-989d85fa48b0,2020-04-18,13:26,Euro 2020,Франция,LaikingDast,AWAY,2,1,1,L,D,L
+008b77e6-7475-4fd4-8300-71ab3ff3c34f,2020-04-18,13:38,Euro 2020,Бельгия,Hrusch,HOME,0,0,0,L,D,L
+008b77e6-7475-4fd4-8300-71ab3ff3c34f,2020-04-18,13:38,Euro 2020,Германия,vrico,AWAY,1,0,1,W,D,W
+4e964b00-7d38-401c-81ac-b272201bc4df,2020-04-18,13:38,Euro 2020,Испания,orlovsky1,HOME,1,1,0,D,D,D
+4e964b00-7d38-401c-81ac-b272201bc4df,2020-04-18,13:38,Euro 2020,Португалия,dm1trena,AWAY,1,1,0,D,D,D
+8a49c2b2-8931-459a-95cd-af8b6e0276a9,2020-04-18,13:50,Euro 2020,Португалия,dm1trena,HOME,1,0,1,L,L,D
+8a49c2b2-8931-459a-95cd-af8b6e0276a9,2020-04-18,13:50,Euro 2020,Бельгия,Hrusch,AWAY,2,1,1,W,W,D
+9ff636ce-b9a6-4d4e-81fe-db2650600d1f,2020-04-18,13:50,Euro 2020,Франция,LaikingDast,HOME,1,0,1,L,D,L
+9ff636ce-b9a6-4d4e-81fe-db2650600d1f,2020-04-18,13:50,Euro 2020,Испания,orlovsky1,AWAY,2,0,2,W,D,W
+aedce089-d749-4536-b2bb-ec930b609de4,2020-04-18,14:02,Euro 2020,Бельгия,Hrusch,HOME,0,0,0,D,D,D
+aedce089-d749-4536-b2bb-ec930b609de4,2020-04-18,14:02,Euro 2020,Франция,LaikingDast,AWAY,0,0,0,D,D,D
+b71666b3-d184-46ae-8de0-b7475068e41f,2020-04-18,14:02,Euro 2020,Германия,vrico,HOME,0,0,0,L,L,L
+b71666b3-d184-46ae-8de0-b7475068e41f,2020-04-18,14:02,Euro 2020,Португалия,dm1trena,AWAY,3,2,1,W,W,W
+ed49d4a8-bc27-4e82-9636-538fe24c2c9d,2020-04-18,14:14,Euro 2020,Испания,orlovsky1,HOME,1,0,1,L,L,D
+ed49d4a8-bc27-4e82-9636-538fe24c2c9d,2020-04-18,14:14,Euro 2020,Бельгия,Hrusch,AWAY,2,1,1,W,W,D
+472bd6a6-8ee0-4098-8e8f-096c00325c1b,2020-04-18,14:14,Euro 2020,Франция,LaikingDast,HOME,0,0,0,L,L,D
+472bd6a6-8ee0-4098-8e8f-096c00325c1b,2020-04-18,14:14,Euro 2020,Германия,vrico,AWAY,1,1,0,W,W,D
+58c596f5-9cc1-4a4c-9cb2-656d4d92a2c2,2020-04-18,14:26,Europa League,Аякс,orlovsky1,HOME,0,0,0,D,D,D
+58c596f5-9cc1-4a4c-9cb2-656d4d92a2c2,2020-04-18,14:26,Europa League,Порту,vrico,AWAY,0,0,0,D,D,D
+6f46dd78-0508-48b2-bae5-b993f79f247a,2020-04-18,14:26,Europa League,Манчестер Юнайтед,LaikingDast,HOME,1,0,1,D,L,W
+6f46dd78-0508-48b2-bae5-b993f79f247a,2020-04-18,14:26,Europa League,Байер 04,dm1trena,AWAY,1,1,0,D,W,L
+a9ab6350-ae8f-45db-a829-43d24d28826c,2020-04-18,14:38,Europa League,Байер 04,dm1trena,HOME,2,1,1,D,D,D
+a9ab6350-ae8f-45db-a829-43d24d28826c,2020-04-18,14:38,Europa League,Аякс,orlovsky1,AWAY,2,1,1,D,D,D
+1ea5e43e-f06e-4923-96ae-f5f77d9d401a,2020-04-18,14:38,Europa League,Порту,vrico,HOME,0,0,0,D,D,D
+1ea5e43e-f06e-4923-96ae-f5f77d9d401a,2020-04-18,14:38,Europa League,Валенсия,Hrusch,AWAY,0,0,0,D,D,D
+bb0413a1-d280-468d-a412-6f93c5082d72,2020-04-18,14:50,Europa League,Аякс,orlovsky1,HOME,3,3,0,W,W,D
+bb0413a1-d280-468d-a412-6f93c5082d72,2020-04-18,14:50,Europa League,Манчестер Юнайтед,LaikingDast,AWAY,1,1,0,L,L,D
+cad39d8b-c757-4110-9877-8f440e2caebb,2020-04-18,14:50,Europa League,Валенсия,Hrusch,HOME,0,0,0,L,L,L
+cad39d8b-c757-4110-9877-8f440e2caebb,2020-04-18,14:50,Europa League,Байер 04,dm1trena,AWAY,2,1,1,W,W,W
+24819722-e834-4272-851e-49c30bb251f8,2020-04-18,15:02,Europa League,Байер 04,dm1trena,HOME,1,1,0,D,D,D
+24819722-e834-4272-851e-49c30bb251f8,2020-04-18,15:02,Europa League,Порту,vrico,AWAY,1,1,0,D,D,D
+a926479f-a3a2-4b44-b5de-13bdab729227,2020-04-18,15:02,Europa League,Манчестер Юнайтед,LaikingDast,HOME,2,0,2,W,D,W
+a926479f-a3a2-4b44-b5de-13bdab729227,2020-04-18,15:02,Europa League,Валенсия,Hrusch,AWAY,1,0,1,L,D,L
+4a16edfa-6299-494b-b4bf-272d5eb60be2,2020-04-18,15:14,Europa League,Валенсия,Hrusch,HOME,0,0,0,L,D,L
+4a16edfa-6299-494b-b4bf-272d5eb60be2,2020-04-18,15:14,Europa League,Аякс,orlovsky1,AWAY,1,0,1,W,D,W
+bc1cf5fe-627d-4abf-ae3a-d2957ed9ad22,2020-04-18,15:14,Europa League,Порту,vrico,HOME,1,0,1,D,D,D
+bc1cf5fe-627d-4abf-ae3a-d2957ed9ad22,2020-04-18,15:14,Europa League,Манчестер Юнайтед,LaikingDast,AWAY,1,0,1,D,D,D
+a0d4996d-b9aa-4a80-a3b6-6074f547b9d6,2020-04-18,15:26,Europa League,Байер 04,dm1trena,HOME,4,1,3,W,D,W
+a0d4996d-b9aa-4a80-a3b6-6074f547b9d6,2020-04-18,15:26,Europa League,Манчестер Юнайтед,LaikingDast,AWAY,2,1,1,L,D,L
+1748c425-83f8-42f5-a530-786ca33af913,2020-04-18,15:26,Europa League,Порту,vrico,HOME,1,0,1,L,L,D
+1748c425-83f8-42f5-a530-786ca33af913,2020-04-18,15:26,Europa League,Аякс,orlovsky1,AWAY,3,2,1,W,W,D
+ac7aaf5e-1193-4ce9-ad2b-34162d9cd010,2020-04-18,15:38,Europa League,Аякс,orlovsky1,HOME,1,0,1,D,L,W
+ac7aaf5e-1193-4ce9-ad2b-34162d9cd010,2020-04-18,15:38,Europa League,Байер 04,dm1trena,AWAY,1,1,0,D,W,L
+9ccbffc0-3186-44b8-bc34-4053e8b85548,2020-04-18,15:38,Europa League,Валенсия,Hrusch,HOME,1,1,0,D,D,D
+9ccbffc0-3186-44b8-bc34-4053e8b85548,2020-04-18,15:38,Europa League,Порту,vrico,AWAY,1,1,0,D,D,D
+a803586c-336a-4b62-a9c7-a13b4fbd2f5b,2020-04-18,15:50,Europa League,Байер 04,dm1trena,HOME,1,1,0,D,D,D
+a803586c-336a-4b62-a9c7-a13b4fbd2f5b,2020-04-18,15:50,Europa League,Валенсия,Hrusch,AWAY,1,1,0,D,D,D
+ac15eb64-1c59-41ef-a63d-74b8896cf544,2020-04-18,15:50,Europa League,Манчестер Юнайтед,LaikingDast,HOME,1,0,1,L,L,W
+ac15eb64-1c59-41ef-a63d-74b8896cf544,2020-04-18,15:50,Europa League,Аякс,orlovsky1,AWAY,2,2,0,W,W,L
+2862c781-01be-4c42-b188-6d4ca0cea175,2020-04-18,16:02,Europa League,Валенсия,Hrusch,HOME,4,2,2,W,W,W
+2862c781-01be-4c42-b188-6d4ca0cea175,2020-04-18,16:02,Europa League,Манчестер Юнайтед,LaikingDast,AWAY,0,0,0,L,L,L
+347f46c4-e202-4911-81ed-766eb6edc107,2020-04-18,16:02,Europa League,Порту,vrico,HOME,0,0,0,L,L,D
+347f46c4-e202-4911-81ed-766eb6edc107,2020-04-18,16:02,Europa League,Байер 04,dm1trena,AWAY,2,2,0,W,W,D
+4b8e299b-dfe8-4aa1-a639-7a65d5d61684,2020-04-18,16:14,Europa League,Аякс,orlovsky1,HOME,0,0,0,L,D,L
+4b8e299b-dfe8-4aa1-a639-7a65d5d61684,2020-04-18,16:14,Europa League,Валенсия,Hrusch,AWAY,2,0,2,W,D,W
+8b445655-c042-4cc5-9be0-2482bf141a4d,2020-04-18,16:14,Europa League,Манчестер Юнайтед,LaikingDast,HOME,3,2,1,W,W,W
+8b445655-c042-4cc5-9be0-2482bf141a4d,2020-04-18,16:14,Europa League,Порту,vrico,AWAY,1,1,0,L,L,L
+6aaa49a0-6c36-4dd3-9c7b-730b98e987fe,2020-04-18,23:26,International,Бразилия,Mr.Jab,HOME,0,0,0,L,D,L
+6aaa49a0-6c36-4dd3-9c7b-730b98e987fe,2020-04-18,23:26,International,Бельгия,Bombi1t0,AWAY,1,0,1,W,D,W
+da9320e4-e1d0-4519-a649-2a5c1f8f7f1b,2020-04-18,23:26,International,Португалия,Skromnuy,HOME,5,2,3,W,D,W
+da9320e4-e1d0-4519-a649-2a5c1f8f7f1b,2020-04-18,23:26,International,Германия,JKey,AWAY,2,2,0,L,D,L
+1856fc90-bd9e-4678-912b-3f431431cad0,2020-04-18,23:38,International,Бельгия,Bombi1t0,HOME,2,2,0,D,W,L
+1856fc90-bd9e-4678-912b-3f431431cad0,2020-04-18,23:38,International,Португалия,Skromnuy,AWAY,2,1,1,D,L,W
+6107cc2f-adc7-4f08-904f-7ad0871eb3ef,2020-04-18,23:38,International,Германия,JKey,HOME,2,1,1,D,L,W
+6107cc2f-adc7-4f08-904f-7ad0871eb3ef,2020-04-18,23:38,International,Испания,Arcos,AWAY,2,2,0,D,W,L
+7bbc249d-d7fe-427f-8413-409d919fe238,2020-04-18,23:50,International,Испания,Arcos,HOME,3,0,3,W,D,W
+7bbc249d-d7fe-427f-8413-409d919fe238,2020-04-18,23:50,International,Бельгия,Bombi1t0,AWAY,1,0,1,L,D,L
+bca902d7-0676-4887-a3f9-d2f5ad79df05,2020-04-18,23:50,International,Португалия,Skromnuy,HOME,2,0,2,W,D,W
+bca902d7-0676-4887-a3f9-d2f5ad79df05,2020-04-18,23:50,International,Бразилия,Mr.Jab,AWAY,1,0,1,L,D,L
+25148ae3-4d49-453a-baed-f6561e2d1ee0,2020-04-18,00:02,Premier League,Арсенал,labotryas,HOME,1,0,1,D,L,W
+25148ae3-4d49-453a-baed-f6561e2d1ee0,2020-04-18,00:02,Premier League,Манчестер Юнайтед,Kray,AWAY,1,1,0,D,W,L
+bf142981-7ab6-49da-9d66-913882cb4551,2020-04-18,00:02,Premier League,Манчестер Сити,Upcake22,HOME,0,0,0,D,D,D
+bf142981-7ab6-49da-9d66-913882cb4551,2020-04-18,00:02,Premier League,Ливерпуль,KRaftVK,AWAY,0,0,0,D,D,D
+d9cb56ae-c332-4635-b411-98a12cb7abeb,2020-04-18,00:14,Premier League,Ливерпуль,KRaftVK,HOME,1,0,1,W,D,W
+d9cb56ae-c332-4635-b411-98a12cb7abeb,2020-04-18,00:14,Premier League,Арсенал,labotryas,AWAY,0,0,0,L,D,L
+c58c41d7-630b-4445-8a1e-99c333ea6585,2020-04-18,00:14,Premier League,Манчестер Юнайтед,Kray,HOME,1,0,1,L,L,D
+c58c41d7-630b-4445-8a1e-99c333ea6585,2020-04-18,00:14,Premier League,Тоттенхэм Хотспур,MeLToSiK,AWAY,2,1,1,W,W,D
+3cd338f7-87a1-490a-b964-9f375b597e9a,2020-04-18,00:26,Premier League,Ливерпуль,KRaftVK,HOME,1,0,1,D,L,W
+3cd338f7-87a1-490a-b964-9f375b597e9a,2020-04-18,00:26,Premier League,Тоттенхэм Хотспур,MeLToSiK,AWAY,1,1,0,D,W,L
+f8f6b6cd-167a-4631-ab4e-d17e2691febe,2020-04-18,00:26,Premier League,Манчестер Сити,Upcake22,HOME,0,0,0,L,L,D
+f8f6b6cd-167a-4631-ab4e-d17e2691febe,2020-04-18,00:26,Premier League,Арсенал,labotryas,AWAY,2,2,0,W,W,D
+fe7a65c0-2b4e-427e-8398-6f2c3879eb78,2020-04-18,00:38,Premier League,Манчестер Юнайтед,Kray,HOME,0,0,0,L,L,D
+fe7a65c0-2b4e-427e-8398-6f2c3879eb78,2020-04-18,00:38,Premier League,Ливерпуль,KRaftVK,AWAY,2,2,0,W,W,D
+755d8d69-95f4-4413-baa3-4df5d7a0d630,2020-04-18,00:38,Premier League,Тоттенхэм Хотспур,MeLToSiK,HOME,1,1,0,W,W,D
+755d8d69-95f4-4413-baa3-4df5d7a0d630,2020-04-18,00:38,Premier League,Манчестер Сити,Upcake22,AWAY,0,0,0,L,L,D
+c9087ae2-40f0-45e2-8480-a97e54aba2d9,2020-04-18,00:50,Premier League,Арсенал,labotryas,HOME,4,1,3,W,W,W
+c9087ae2-40f0-45e2-8480-a97e54aba2d9,2020-04-18,00:50,Premier League,Тоттенхэм Хотспур,MeLToSiK,AWAY,2,0,2,L,L,L
+c7df7597-6afb-41f0-8da4-b11d5bcbabc6,2020-04-18,00:50,Premier League,Манчестер Сити,Upcake22,HOME,0,0,0,L,D,L
+c7df7597-6afb-41f0-8da4-b11d5bcbabc6,2020-04-18,00:50,Premier League,Манчестер Юнайтед,Kray,AWAY,3,0,3,W,D,W
+dda85c95-f1f2-4e47-bddf-c101191f1baa,2020-04-18,01:02,Premier League,Ливерпуль,KRaftVK,HOME,1,1,0,D,W,L
+dda85c95-f1f2-4e47-bddf-c101191f1baa,2020-04-18,01:02,Premier League,Манчестер Сити,Upcake22,AWAY,1,0,1,D,L,W
+61689730-8bd3-471f-926c-3f54fe3e3193,2020-04-18,01:02,Premier League,Манчестер Юнайтед,Kray,HOME,2,1,1,D,D,D
+61689730-8bd3-471f-926c-3f54fe3e3193,2020-04-18,01:02,Premier League,Арсенал,labotryas,AWAY,2,1,1,D,D,D
+415edcc5-7fca-43fe-b86d-55e23a9fe3a8,2020-04-18,01:14,Premier League,Арсенал,labotryas,HOME,2,1,1,W,W,W
+415edcc5-7fca-43fe-b86d-55e23a9fe3a8,2020-04-18,01:14,Premier League,Ливерпуль,KRaftVK,AWAY,0,0,0,L,L,L
+e1d00ad4-46c4-489f-a53e-33a0f61fb06a,2020-04-18,01:14,Premier League,Тоттенхэм Хотспур,MeLToSiK,HOME,4,1,3,W,W,W
+e1d00ad4-46c4-489f-a53e-33a0f61fb06a,2020-04-18,01:14,Premier League,Манчестер Юнайтед,Kray,AWAY,0,0,0,L,L,L
+dff72fde-cca7-468f-a70a-4e3cdb81914b,2020-04-18,21:26,Premier League,Арсенал,Skromnuy,HOME,0,0,0,L,D,L
+dff72fde-cca7-468f-a70a-4e3cdb81914b,2020-04-18,21:26,Premier League,Ливерпуль,JKey,AWAY,1,0,1,W,D,W
+39d4a729-72c9-4b16-a18d-49004bb7825c,2020-04-18,21:26,Premier League,Манчестер Сити,Mr.Jab,HOME,1,0,1,W,D,W
+39d4a729-72c9-4b16-a18d-49004bb7825c,2020-04-18,21:26,Premier League,Тоттенхэм Хотспур,Bombi1t0,AWAY,0,0,0,L,D,L
+9bef9237-7c9a-4387-828d-cc2602a4a9e9,2020-04-18,21:38,Premier League,Ливерпуль,JKey,HOME,0,0,0,D,D,D
+9bef9237-7c9a-4387-828d-cc2602a4a9e9,2020-04-18,21:38,Premier League,Манчестер Юнайтед,Arcos,AWAY,0,0,0,D,D,D
+d5241aff-9249-4fd2-bcf2-19737973f4fc,2020-04-18,21:38,Premier League,Тоттенхэм Хотспур,Bombi1t0,HOME,3,2,1,W,W,W
+d5241aff-9249-4fd2-bcf2-19737973f4fc,2020-04-18,21:38,Premier League,Арсенал,Skromnuy,AWAY,0,0,0,L,L,L
+ae7d217a-9dd3-4e06-89c6-93bcf0934fb0,2020-04-18,21:50,Premier League,Арсенал,Skromnuy,HOME,0,0,0,L,D,L
+ae7d217a-9dd3-4e06-89c6-93bcf0934fb0,2020-04-18,21:50,Premier League,Манчестер Сити,Mr.Jab,AWAY,1,0,1,W,D,W
+eddb45fe-3cba-4e36-9f48-c70115422fce,2020-04-18,21:50,Premier League,Манчестер Юнайтед,Arcos,HOME,2,1,1,W,W,W
+eddb45fe-3cba-4e36-9f48-c70115422fce,2020-04-18,21:50,Premier League,Тоттенхэм Хотспур,Bombi1t0,AWAY,0,0,0,L,L,L
+9827bacf-777a-4a93-ac0a-ffa15328e91d,2020-04-18,22:02,Premier League,Манчестер Сити,Mr.Jab,HOME,2,1,1,W,D,W
+9827bacf-777a-4a93-ac0a-ffa15328e91d,2020-04-18,22:02,Premier League,Манчестер Юнайтед,Arcos,AWAY,1,1,0,L,D,L
+c1dcae58-fefc-429c-ae90-ca49c9a59f38,2020-04-18,22:02,Premier League,Тоттенхэм Хотспур,Bombi1t0,HOME,1,0,1,W,D,W
+c1dcae58-fefc-429c-ae90-ca49c9a59f38,2020-04-18,22:02,Premier League,Ливерпуль,JKey,AWAY,0,0,0,L,D,L
+fb166919-d384-4cda-93e9-31474b7d7e4e,2020-04-18,22:14,Premier League,Ливерпуль,JKey,HOME,4,1,3,W,W,W
+fb166919-d384-4cda-93e9-31474b7d7e4e,2020-04-18,22:14,Premier League,Манчестер Сити,Mr.Jab,AWAY,1,0,1,L,L,L
+ee464626-52ae-43d7-b1f5-3d0dd32ba8cd,2020-04-18,22:14,Premier League,Манчестер Юнайтед,Arcos,HOME,1,1,0,W,W,D
+ee464626-52ae-43d7-b1f5-3d0dd32ba8cd,2020-04-18,22:14,Premier League,Арсенал,Skromnuy,AWAY,0,0,0,L,L,D
+99608120-2a4c-4fad-94d1-4d80c5eb32bd,2020-04-18,22:26,Premier League,Ливерпуль,JKey,HOME,2,0,2,D,L,W
+99608120-2a4c-4fad-94d1-4d80c5eb32bd,2020-04-18,22:26,Premier League,Арсенал,Skromnuy,AWAY,2,1,1,D,W,L
+eccf12b1-ff5c-488b-a40a-071b694e2c43,2020-04-18,22:26,Premier League,Тоттенхэм Хотспур,Bombi1t0,HOME,1,0,1,W,D,W
+eccf12b1-ff5c-488b-a40a-071b694e2c43,2020-04-18,22:26,Premier League,Манчестер Сити,Mr.Jab,AWAY,0,0,0,L,D,L
+3ac755f7-5a51-443e-a8a7-f3b4e29e436a,2020-04-18,22:38,Premier League,Арсенал,Skromnuy,HOME,0,0,0,L,D,L
+3ac755f7-5a51-443e-a8a7-f3b4e29e436a,2020-04-18,22:38,Premier League,Тоттенхэм Хотспур,Bombi1t0,AWAY,2,0,2,W,D,W
+954f647c-e217-4223-bced-91fcb5f382bb,2020-04-18,22:38,Premier League,Манчестер Юнайтед,Arcos,HOME,3,1,2,W,W,W
+954f647c-e217-4223-bced-91fcb5f382bb,2020-04-18,22:38,Premier League,Ливерпуль,JKey,AWAY,1,0,1,L,L,L
+eac08e81-491b-4717-8f0c-cf73e1679f11,2020-04-18,22:50,Premier League,Манчестер Сити,Mr.Jab,HOME,0,0,0,L,L,L
+eac08e81-491b-4717-8f0c-cf73e1679f11,2020-04-18,22:50,Premier League,Арсенал,Skromnuy,AWAY,3,1,2,W,W,W
+9cae5a85-f056-45f4-8409-e96db61882ba,2020-04-18,22:50,Premier League,Тоттенхэм Хотспур,Bombi1t0,HOME,0,0,0,L,D,L
+9cae5a85-f056-45f4-8409-e96db61882ba,2020-04-18,22:50,Premier League,Манчестер Юнайтед,Arcos,AWAY,1,0,1,W,D,W
+71d48150-8aee-4c6c-9082-afcbecad06df,2020-04-18,23:02,Premier League,Ливерпуль,JKey,HOME,1,1,0,D,W,L
+71d48150-8aee-4c6c-9082-afcbecad06df,2020-04-18,23:02,Premier League,Тоттенхэм Хотспур,Bombi1t0,AWAY,1,0,1,D,L,W
+a16d570f-3960-4a67-b02f-64e0a754f073,2020-04-18,23:02,Premier League,Манчестер Юнайтед,Arcos,HOME,2,1,1,W,W,D
+a16d570f-3960-4a67-b02f-64e0a754f073,2020-04-18,23:02,Premier League,Манчестер Сити,Mr.Jab,AWAY,1,0,1,L,L,D
+c8a4c02d-f60d-4279-afdb-9175bbd61d52,2020-04-18,23:14,Premier League,Арсенал,Skromnuy,HOME,0,0,0,L,L,D
+c8a4c02d-f60d-4279-afdb-9175bbd61d52,2020-04-18,23:14,Premier League,Манчестер Юнайтед,Arcos,AWAY,1,1,0,W,W,D
+7394799f-6043-432f-8387-0dd5abebb30a,2020-04-18,23:14,Premier League,Манчестер Сити,Mr.Jab,HOME,1,1,0,L,L,D
+7394799f-6043-432f-8387-0dd5abebb30a,2020-04-18,23:14,Premier League,Ливерпуль,JKey,AWAY,2,2,0,W,W,D
+b0b1384c-ca0a-40a4-a9dc-84d508927223,2020-04-18,18:56,Serie A,Лацио,Skromnuy,HOME,7,5,2,W,W,W
+b0b1384c-ca0a-40a4-a9dc-84d508927223,2020-04-18,18:56,Serie A,Интер,JKey,AWAY,0,0,0,L,L,L
+478f179d-5d5f-47f6-8b72-e4dca83dafd6,2020-04-18,18:56,Serie A,Наполи,Mr.Jab,HOME,2,0,2,W,D,W
+478f179d-5d5f-47f6-8b72-e4dca83dafd6,2020-04-18,18:56,Serie A,Милан,Bombi1t0,AWAY,0,0,0,L,D,L
+bda944cb-a290-49ed-9e47-15d1d3edd74a,2020-04-18,19:08,Serie A,Интер,JKey,HOME,0,0,0,L,L,L
+bda944cb-a290-49ed-9e47-15d1d3edd74a,2020-04-18,19:08,Serie A,Аталанта,Arcos,AWAY,4,1,3,W,W,W
+9fc92c5d-f47e-41eb-a117-34231f687cc6,2020-04-18,19:08,Serie A,Милан,Bombi1t0,HOME,1,0,1,D,L,W
+9fc92c5d-f47e-41eb-a117-34231f687cc6,2020-04-18,19:08,Serie A,Лацио,Skromnuy,AWAY,1,1,0,D,W,L
+326dd2a7-5e91-4c06-ac20-faab5e3303ea,2020-04-18,19:20,Serie A,Аталанта,Arcos,HOME,0,0,0,D,D,D
+326dd2a7-5e91-4c06-ac20-faab5e3303ea,2020-04-18,19:20,Serie A,Милан,Bombi1t0,AWAY,0,0,0,D,D,D
+df6a6d71-723f-40b8-8445-feade8019c59,2020-04-18,19:20,Serie A,Лацио,Skromnuy,HOME,0,0,0,D,D,D
+df6a6d71-723f-40b8-8445-feade8019c59,2020-04-18,19:20,Serie A,Наполи,Mr.Jab,AWAY,0,0,0,D,D,D
+0efc1e1f-94c2-4b5a-94b5-5f6b3a065565,2020-04-18,19:32,Serie A,Милан,Bombi1t0,HOME,0,0,0,L,D,L
+0efc1e1f-94c2-4b5a-94b5-5f6b3a065565,2020-04-18,19:32,Serie A,Интер,JKey,AWAY,2,0,2,W,D,W
+1456f211-8185-41ab-af36-bca504ea3e76,2020-04-18,19:32,Serie A,Наполи,Mr.Jab,HOME,0,0,0,L,L,D
+1456f211-8185-41ab-af36-bca504ea3e76,2020-04-18,19:32,Serie A,Аталанта,Arcos,AWAY,1,1,0,W,W,D
+0cc47861-4b94-4081-9e6b-6ecb585a65a9,2020-04-18,19:44,Serie A,Аталанта,Arcos,HOME,0,0,0,L,D,L
+0cc47861-4b94-4081-9e6b-6ecb585a65a9,2020-04-18,19:44,Serie A,Лацио,Skromnuy,AWAY,1,0,1,W,D,W
+2d6fb932-b609-44e7-8f9c-96cfe8633450,2020-04-18,19:44,Serie A,Интер,JKey,HOME,1,0,1,L,L,L
+2d6fb932-b609-44e7-8f9c-96cfe8633450,2020-04-18,19:44,Serie A,Наполи,Mr.Jab,AWAY,3,1,2,W,W,W
+02522a65-8465-401d-a46e-9951324ca4fb,2020-04-18,19:56,Serie A,Интер,JKey,HOME,0,0,0,L,D,L
+02522a65-8465-401d-a46e-9951324ca4fb,2020-04-18,19:56,Serie A,Лацио,Skromnuy,AWAY,3,0,3,W,D,W
+900440f7-92ef-4de4-8014-3589fa38dde5,2020-04-18,19:56,Serie A,Милан,Bombi1t0,HOME,1,0,1,L,D,L
+900440f7-92ef-4de4-8014-3589fa38dde5,2020-04-18,19:56,Serie A,Наполи,Mr.Jab,AWAY,3,0,3,W,D,W
+01dc361a-30ab-4ed2-953f-9038869cf6f5,2020-04-18,20:08,Serie A,Аталанта,Arcos,HOME,3,1,2,W,W,W
+01dc361a-30ab-4ed2-953f-9038869cf6f5,2020-04-18,20:08,Serie A,Интер,JKey,AWAY,0,0,0,L,L,L
+a570ea75-ac4a-42b0-9f82-ea93c78897b2,2020-04-18,20:08,Serie A,Лацио,Skromnuy,HOME,3,2,1,W,W,W
+a570ea75-ac4a-42b0-9f82-ea93c78897b2,2020-04-18,20:08,Serie A,Милан,Bombi1t0,AWAY,1,1,0,L,L,L
+56e4904f-a90e-455a-9f07-f202c1785e5b,2020-04-18,20:20,Serie A,Милан,Bombi1t0,HOME,1,0,1,D,L,W
+56e4904f-a90e-455a-9f07-f202c1785e5b,2020-04-18,20:20,Serie A,Аталанта,Arcos,AWAY,1,1,0,D,W,L
+b5679e4e-bc4f-4fbd-99ff-ee40210598c9,2020-04-18,20:20,Serie A,Наполи,Mr.Jab,HOME,0,0,0,L,D,L
+b5679e4e-bc4f-4fbd-99ff-ee40210598c9,2020-04-18,20:20,Serie A,Лацио,Skromnuy,AWAY,2,0,2,W,D,W
+8ff305e1-5e9e-4acd-aa01-8f49ee83afac,2020-04-18,20:32,Serie A,Аталанта,Arcos,HOME,0,0,0,D,D,D
+8ff305e1-5e9e-4acd-aa01-8f49ee83afac,2020-04-18,20:32,Serie A,Наполи,Mr.Jab,AWAY,0,0,0,D,D,D
+f02ace8f-fe4c-4ce1-85be-3a9ab0f4d9ca,2020-04-18,20:32,Serie A,Интер,JKey,HOME,2,0,2,W,D,W
+f02ace8f-fe4c-4ce1-85be-3a9ab0f4d9ca,2020-04-18,20:32,Serie A,Милан,Bombi1t0,AWAY,0,0,0,L,D,L
+2d424a27-0e10-478f-9349-11cc3b49ec64,2020-04-18,20:44,Serie A,Лацио,Skromnuy,HOME,1,1,0,D,W,L
+2d424a27-0e10-478f-9349-11cc3b49ec64,2020-04-18,20:44,Serie A,Аталанта,Arcos,AWAY,1,0,1,D,L,W
+362c6301-0e7d-4468-8034-5acf36bca6d9,2020-04-18,20:44,Serie A,Наполи,Mr.Jab,HOME,1,1,0,D,W,L
+362c6301-0e7d-4468-8034-5acf36bca6d9,2020-04-18,20:44,Serie A,Интер,JKey,AWAY,1,0,1,D,L,W
